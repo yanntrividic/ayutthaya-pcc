@@ -15,7 +15,7 @@ Cette application a été développée dans le but d'étudier le fonctionnement 
 	pandas 1.1.5
 
 **Installation du programme :**
-Ouvrez un terminal et rendez vous dans le répertoire contenant l'archive JAR. Exécutez la commande `java -jar NOMDUJAR.jar`. Suivez les instructions affichées dans le terminal.
+Ouvrez un terminal et rendez vous dans le répertoire contenant l'archive JAR (téléchargeable dans la partie `tags` de cette page). Exécutez la commande `java -jar NOMDUJAR.jar`. Suivez les instructions affichées dans le terminal.
 
 **Exécution du programme :**
 Plusieurs fonctionnalités sont mises à la disposition de l'utilisateur.
